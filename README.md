@@ -12,13 +12,12 @@ All files needed located inside EmployeeSQL folder
 
 Resources
 ****
-  ERD image file
-  DataFrames
-  ****
-    All CSV Files needed for table imports
+    ERD image file
+    DataFrames
+      -All CSV Files needed for table imports
 SQL FILES
 ****
-  All of the SQL files to run data analysis
+    All of the SQL files to run data analysis
 Table Setup
 ****
-  All the SQL files to create and alter tables
+    All the SQL files to create and alter tables
